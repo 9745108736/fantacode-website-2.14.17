@@ -1,0 +1,33 @@
+#dropdown-menu-2btn-0 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-0 .nav .link,
+#dropdown-menu-2btn-0 .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-2btn-0 .navbar,
+#dropdown-menu-2btn-0 .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2btn-0 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-0 .dropdown-menu a:hover,
+#dropdown-menu-2btn-0 .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2btn-0 .navbar-toggler {
+  color: #000000;
+}
+#msg-box3-0 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-0 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-0 small {
+  font-size: 17px;
+}
+#msg-box2-1 H2 {
+  font-size: 36px;
+  color: #ffffff;
+}
